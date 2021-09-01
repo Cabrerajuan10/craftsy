@@ -18,8 +18,11 @@
 }
 
 .home main section.productos article img{
-    margin: 10px 0;
+    width: 100%;
+}
 
+.home main section.productos article h4{
+    margin: 10px 0;
 }
 
 .home main section.productos article a{
