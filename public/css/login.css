@@ -1,0 +1,13 @@
+.login{
+    margin: 0 auto;
+}
+
+.login .box-span{
+    margin: 20px 0;
+}
+
+.login .box-check{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
